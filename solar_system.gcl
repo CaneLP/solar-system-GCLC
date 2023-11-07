@@ -1,0 +1,1670 @@
+number days_array[0] 1
+number months_array[0] 1
+number years_array[0] 1990
+number days_array[1] 2
+number months_array[1] 1
+number years_array[1] 1990
+number days_array[2] 3
+number months_array[2] 1
+number years_array[2] 1990
+number days_array[3] 4
+number months_array[3] 1
+number years_array[3] 1990
+number days_array[4] 5
+number months_array[4] 1
+number years_array[4] 1990
+number days_array[5] 6
+number months_array[5] 1
+number years_array[5] 1990
+number days_array[6] 7
+number months_array[6] 1
+number years_array[6] 1990
+number days_array[7] 8
+number months_array[7] 1
+number years_array[7] 1990
+number days_array[8] 9
+number months_array[8] 1
+number years_array[8] 1990
+number days_array[9] 10
+number months_array[9] 1
+number years_array[9] 1990
+number days_array[10] 11
+number months_array[10] 1
+number years_array[10] 1990
+number days_array[11] 12
+number months_array[11] 1
+number years_array[11] 1990
+number days_array[12] 13
+number months_array[12] 1
+number years_array[12] 1990
+number days_array[13] 14
+number months_array[13] 1
+number years_array[13] 1990
+number days_array[14] 15
+number months_array[14] 1
+number years_array[14] 1990
+number days_array[15] 16
+number months_array[15] 1
+number years_array[15] 1990
+number days_array[16] 17
+number months_array[16] 1
+number years_array[16] 1990
+number days_array[17] 18
+number months_array[17] 1
+number years_array[17] 1990
+number days_array[18] 19
+number months_array[18] 1
+number years_array[18] 1990
+number days_array[19] 20
+number months_array[19] 1
+number years_array[19] 1990
+number days_array[20] 21
+number months_array[20] 1
+number years_array[20] 1990
+number days_array[21] 22
+number months_array[21] 1
+number years_array[21] 1990
+number days_array[22] 23
+number months_array[22] 1
+number years_array[22] 1990
+number days_array[23] 24
+number months_array[23] 1
+number years_array[23] 1990
+number days_array[24] 25
+number months_array[24] 1
+number years_array[24] 1990
+number days_array[25] 26
+number months_array[25] 1
+number years_array[25] 1990
+number days_array[26] 27
+number months_array[26] 1
+number years_array[26] 1990
+number days_array[27] 28
+number months_array[27] 1
+number years_array[27] 1990
+number days_array[28] 29
+number months_array[28] 1
+number years_array[28] 1990
+number days_array[29] 30
+number months_array[29] 1
+number years_array[29] 1990
+number days_array[30] 31
+number months_array[30] 1
+number years_array[30] 1990
+number days_array[31] 1
+number months_array[31] 2
+number years_array[31] 1990
+number days_array[32] 2
+number months_array[32] 2
+number years_array[32] 1990
+number days_array[33] 3
+number months_array[33] 2
+number years_array[33] 1990
+number days_array[34] 4
+number months_array[34] 2
+number years_array[34] 1990
+number days_array[35] 5
+number months_array[35] 2
+number years_array[35] 1990
+number days_array[36] 6
+number months_array[36] 2
+number years_array[36] 1990
+number days_array[37] 7
+number months_array[37] 2
+number years_array[37] 1990
+number days_array[38] 8
+number months_array[38] 2
+number years_array[38] 1990
+number days_array[39] 9
+number months_array[39] 2
+number years_array[39] 1990
+number days_array[40] 10
+number months_array[40] 2
+number years_array[40] 1990
+number days_array[41] 11
+number months_array[41] 2
+number years_array[41] 1990
+number days_array[42] 12
+number months_array[42] 2
+number years_array[42] 1990
+number days_array[43] 13
+number months_array[43] 2
+number years_array[43] 1990
+number days_array[44] 14
+number months_array[44] 2
+number years_array[44] 1990
+number days_array[45] 15
+number months_array[45] 2
+number years_array[45] 1990
+number days_array[46] 16
+number months_array[46] 2
+number years_array[46] 1990
+number days_array[47] 17
+number months_array[47] 2
+number years_array[47] 1990
+number days_array[48] 18
+number months_array[48] 2
+number years_array[48] 1990
+number days_array[49] 19
+number months_array[49] 2
+number years_array[49] 1990
+number days_array[50] 20
+number months_array[50] 2
+number years_array[50] 1990
+number days_array[51] 21
+number months_array[51] 2
+number years_array[51] 1990
+number days_array[52] 22
+number months_array[52] 2
+number years_array[52] 1990
+number days_array[53] 23
+number months_array[53] 2
+number years_array[53] 1990
+number days_array[54] 24
+number months_array[54] 2
+number years_array[54] 1990
+number days_array[55] 25
+number months_array[55] 2
+number years_array[55] 1990
+number days_array[56] 26
+number months_array[56] 2
+number years_array[56] 1990
+number days_array[57] 27
+number months_array[57] 2
+number years_array[57] 1990
+number days_array[58] 28
+number months_array[58] 2
+number years_array[58] 1990
+number days_array[59] 1
+number months_array[59] 3
+number years_array[59] 1990
+number days_array[60] 2
+number months_array[60] 3
+number years_array[60] 1990
+number days_array[61] 3
+number months_array[61] 3
+number years_array[61] 1990
+number days_array[62] 4
+number months_array[62] 3
+number years_array[62] 1990
+number days_array[63] 5
+number months_array[63] 3
+number years_array[63] 1990
+number days_array[64] 6
+number months_array[64] 3
+number years_array[64] 1990
+number days_array[65] 7
+number months_array[65] 3
+number years_array[65] 1990
+number days_array[66] 8
+number months_array[66] 3
+number years_array[66] 1990
+number days_array[67] 9
+number months_array[67] 3
+number years_array[67] 1990
+number days_array[68] 10
+number months_array[68] 3
+number years_array[68] 1990
+number days_array[69] 11
+number months_array[69] 3
+number years_array[69] 1990
+number days_array[70] 12
+number months_array[70] 3
+number years_array[70] 1990
+number days_array[71] 13
+number months_array[71] 3
+number years_array[71] 1990
+number days_array[72] 14
+number months_array[72] 3
+number years_array[72] 1990
+number days_array[73] 15
+number months_array[73] 3
+number years_array[73] 1990
+number days_array[74] 16
+number months_array[74] 3
+number years_array[74] 1990
+number days_array[75] 17
+number months_array[75] 3
+number years_array[75] 1990
+number days_array[76] 18
+number months_array[76] 3
+number years_array[76] 1990
+number days_array[77] 19
+number months_array[77] 3
+number years_array[77] 1990
+number days_array[78] 20
+number months_array[78] 3
+number years_array[78] 1990
+number days_array[79] 21
+number months_array[79] 3
+number years_array[79] 1990
+number days_array[80] 22
+number months_array[80] 3
+number years_array[80] 1990
+number days_array[81] 23
+number months_array[81] 3
+number years_array[81] 1990
+number days_array[82] 24
+number months_array[82] 3
+number years_array[82] 1990
+number days_array[83] 25
+number months_array[83] 3
+number years_array[83] 1990
+number days_array[84] 26
+number months_array[84] 3
+number years_array[84] 1990
+number days_array[85] 27
+number months_array[85] 3
+number years_array[85] 1990
+number days_array[86] 28
+number months_array[86] 3
+number years_array[86] 1990
+number days_array[87] 29
+number months_array[87] 3
+number years_array[87] 1990
+number days_array[88] 30
+number months_array[88] 3
+number years_array[88] 1990
+number days_array[89] 31
+number months_array[89] 3
+number years_array[89] 1990
+number days_array[90] 1
+number months_array[90] 4
+number years_array[90] 1990
+number days_array[91] 2
+number months_array[91] 4
+number years_array[91] 1990
+number days_array[92] 3
+number months_array[92] 4
+number years_array[92] 1990
+number days_array[93] 4
+number months_array[93] 4
+number years_array[93] 1990
+number days_array[94] 5
+number months_array[94] 4
+number years_array[94] 1990
+number days_array[95] 6
+number months_array[95] 4
+number years_array[95] 1990
+number days_array[96] 7
+number months_array[96] 4
+number years_array[96] 1990
+number days_array[97] 8
+number months_array[97] 4
+number years_array[97] 1990
+number days_array[98] 9
+number months_array[98] 4
+number years_array[98] 1990
+number days_array[99] 10
+number months_array[99] 4
+number years_array[99] 1990
+number days_array[100] 11
+number months_array[100] 4
+number years_array[100] 1990
+number days_array[101] 12
+number months_array[101] 4
+number years_array[101] 1990
+number days_array[102] 13
+number months_array[102] 4
+number years_array[102] 1990
+number days_array[103] 14
+number months_array[103] 4
+number years_array[103] 1990
+number days_array[104] 15
+number months_array[104] 4
+number years_array[104] 1990
+number days_array[105] 16
+number months_array[105] 4
+number years_array[105] 1990
+number days_array[106] 17
+number months_array[106] 4
+number years_array[106] 1990
+number days_array[107] 18
+number months_array[107] 4
+number years_array[107] 1990
+number days_array[108] 19
+number months_array[108] 4
+number years_array[108] 1990
+number days_array[109] 20
+number months_array[109] 4
+number years_array[109] 1990
+number days_array[110] 21
+number months_array[110] 4
+number years_array[110] 1990
+number days_array[111] 22
+number months_array[111] 4
+number years_array[111] 1990
+number days_array[112] 23
+number months_array[112] 4
+number years_array[112] 1990
+number days_array[113] 24
+number months_array[113] 4
+number years_array[113] 1990
+number days_array[114] 25
+number months_array[114] 4
+number years_array[114] 1990
+number days_array[115] 26
+number months_array[115] 4
+number years_array[115] 1990
+number days_array[116] 27
+number months_array[116] 4
+number years_array[116] 1990
+number days_array[117] 28
+number months_array[117] 4
+number years_array[117] 1990
+number days_array[118] 29
+number months_array[118] 4
+number years_array[118] 1990
+number days_array[119] 30
+number months_array[119] 4
+number years_array[119] 1990
+number days_array[120] 1
+number months_array[120] 5
+number years_array[120] 1990
+number days_array[121] 2
+number months_array[121] 5
+number years_array[121] 1990
+number days_array[122] 3
+number months_array[122] 5
+number years_array[122] 1990
+number days_array[123] 4
+number months_array[123] 5
+number years_array[123] 1990
+number days_array[124] 5
+number months_array[124] 5
+number years_array[124] 1990
+number days_array[125] 6
+number months_array[125] 5
+number years_array[125] 1990
+number days_array[126] 7
+number months_array[126] 5
+number years_array[126] 1990
+number days_array[127] 8
+number months_array[127] 5
+number years_array[127] 1990
+number days_array[128] 9
+number months_array[128] 5
+number years_array[128] 1990
+number days_array[129] 10
+number months_array[129] 5
+number years_array[129] 1990
+number days_array[130] 11
+number months_array[130] 5
+number years_array[130] 1990
+number days_array[131] 12
+number months_array[131] 5
+number years_array[131] 1990
+number days_array[132] 13
+number months_array[132] 5
+number years_array[132] 1990
+number days_array[133] 14
+number months_array[133] 5
+number years_array[133] 1990
+number days_array[134] 15
+number months_array[134] 5
+number years_array[134] 1990
+number days_array[135] 16
+number months_array[135] 5
+number years_array[135] 1990
+number days_array[136] 17
+number months_array[136] 5
+number years_array[136] 1990
+number days_array[137] 18
+number months_array[137] 5
+number years_array[137] 1990
+number days_array[138] 19
+number months_array[138] 5
+number years_array[138] 1990
+number days_array[139] 20
+number months_array[139] 5
+number years_array[139] 1990
+number days_array[140] 21
+number months_array[140] 5
+number years_array[140] 1990
+number days_array[141] 22
+number months_array[141] 5
+number years_array[141] 1990
+number days_array[142] 23
+number months_array[142] 5
+number years_array[142] 1990
+number days_array[143] 24
+number months_array[143] 5
+number years_array[143] 1990
+number days_array[144] 25
+number months_array[144] 5
+number years_array[144] 1990
+number days_array[145] 26
+number months_array[145] 5
+number years_array[145] 1990
+number days_array[146] 27
+number months_array[146] 5
+number years_array[146] 1990
+number days_array[147] 28
+number months_array[147] 5
+number years_array[147] 1990
+number days_array[148] 29
+number months_array[148] 5
+number years_array[148] 1990
+number days_array[149] 30
+number months_array[149] 5
+number years_array[149] 1990
+number days_array[150] 31
+number months_array[150] 5
+number years_array[150] 1990
+number days_array[151] 1
+number months_array[151] 6
+number years_array[151] 1990
+number days_array[152] 2
+number months_array[152] 6
+number years_array[152] 1990
+number days_array[153] 3
+number months_array[153] 6
+number years_array[153] 1990
+number days_array[154] 4
+number months_array[154] 6
+number years_array[154] 1990
+number days_array[155] 5
+number months_array[155] 6
+number years_array[155] 1990
+number days_array[156] 6
+number months_array[156] 6
+number years_array[156] 1990
+number days_array[157] 7
+number months_array[157] 6
+number years_array[157] 1990
+number days_array[158] 8
+number months_array[158] 6
+number years_array[158] 1990
+number days_array[159] 9
+number months_array[159] 6
+number years_array[159] 1990
+number days_array[160] 10
+number months_array[160] 6
+number years_array[160] 1990
+number days_array[161] 11
+number months_array[161] 6
+number years_array[161] 1990
+number days_array[162] 12
+number months_array[162] 6
+number years_array[162] 1990
+number days_array[163] 13
+number months_array[163] 6
+number years_array[163] 1990
+number days_array[164] 14
+number months_array[164] 6
+number years_array[164] 1990
+number days_array[165] 15
+number months_array[165] 6
+number years_array[165] 1990
+number days_array[166] 16
+number months_array[166] 6
+number years_array[166] 1990
+number days_array[167] 17
+number months_array[167] 6
+number years_array[167] 1990
+number days_array[168] 18
+number months_array[168] 6
+number years_array[168] 1990
+number days_array[169] 19
+number months_array[169] 6
+number years_array[169] 1990
+number days_array[170] 20
+number months_array[170] 6
+number years_array[170] 1990
+number days_array[171] 21
+number months_array[171] 6
+number years_array[171] 1990
+number days_array[172] 22
+number months_array[172] 6
+number years_array[172] 1990
+number days_array[173] 23
+number months_array[173] 6
+number years_array[173] 1990
+number days_array[174] 24
+number months_array[174] 6
+number years_array[174] 1990
+number days_array[175] 25
+number months_array[175] 6
+number years_array[175] 1990
+number days_array[176] 26
+number months_array[176] 6
+number years_array[176] 1990
+number days_array[177] 27
+number months_array[177] 6
+number years_array[177] 1990
+number days_array[178] 28
+number months_array[178] 6
+number years_array[178] 1990
+number days_array[179] 29
+number months_array[179] 6
+number years_array[179] 1990
+number days_array[180] 30
+number months_array[180] 6
+number years_array[180] 1990
+number days_array[181] 1
+number months_array[181] 7
+number years_array[181] 1990
+number days_array[182] 2
+number months_array[182] 7
+number years_array[182] 1990
+number days_array[183] 3
+number months_array[183] 7
+number years_array[183] 1990
+number days_array[184] 4
+number months_array[184] 7
+number years_array[184] 1990
+number days_array[185] 5
+number months_array[185] 7
+number years_array[185] 1990
+number days_array[186] 6
+number months_array[186] 7
+number years_array[186] 1990
+number days_array[187] 7
+number months_array[187] 7
+number years_array[187] 1990
+number days_array[188] 8
+number months_array[188] 7
+number years_array[188] 1990
+number days_array[189] 9
+number months_array[189] 7
+number years_array[189] 1990
+number days_array[190] 10
+number months_array[190] 7
+number years_array[190] 1990
+number days_array[191] 11
+number months_array[191] 7
+number years_array[191] 1990
+number days_array[192] 12
+number months_array[192] 7
+number years_array[192] 1990
+number days_array[193] 13
+number months_array[193] 7
+number years_array[193] 1990
+number days_array[194] 14
+number months_array[194] 7
+number years_array[194] 1990
+number days_array[195] 15
+number months_array[195] 7
+number years_array[195] 1990
+number days_array[196] 16
+number months_array[196] 7
+number years_array[196] 1990
+number days_array[197] 17
+number months_array[197] 7
+number years_array[197] 1990
+number days_array[198] 18
+number months_array[198] 7
+number years_array[198] 1990
+number days_array[199] 19
+number months_array[199] 7
+number years_array[199] 1990
+number days_array[200] 20
+number months_array[200] 7
+number years_array[200] 1990
+number days_array[201] 21
+number months_array[201] 7
+number years_array[201] 1990
+number days_array[202] 22
+number months_array[202] 7
+number years_array[202] 1990
+number days_array[203] 23
+number months_array[203] 7
+number years_array[203] 1990
+number days_array[204] 24
+number months_array[204] 7
+number years_array[204] 1990
+number days_array[205] 25
+number months_array[205] 7
+number years_array[205] 1990
+number days_array[206] 26
+number months_array[206] 7
+number years_array[206] 1990
+number days_array[207] 27
+number months_array[207] 7
+number years_array[207] 1990
+number days_array[208] 28
+number months_array[208] 7
+number years_array[208] 1990
+number days_array[209] 29
+number months_array[209] 7
+number years_array[209] 1990
+number days_array[210] 30
+number months_array[210] 7
+number years_array[210] 1990
+number days_array[211] 31
+number months_array[211] 7
+number years_array[211] 1990
+number days_array[212] 1
+number months_array[212] 8
+number years_array[212] 1990
+number days_array[213] 2
+number months_array[213] 8
+number years_array[213] 1990
+number days_array[214] 3
+number months_array[214] 8
+number years_array[214] 1990
+number days_array[215] 4
+number months_array[215] 8
+number years_array[215] 1990
+number days_array[216] 5
+number months_array[216] 8
+number years_array[216] 1990
+number days_array[217] 6
+number months_array[217] 8
+number years_array[217] 1990
+number days_array[218] 7
+number months_array[218] 8
+number years_array[218] 1990
+number days_array[219] 8
+number months_array[219] 8
+number years_array[219] 1990
+number days_array[220] 9
+number months_array[220] 8
+number years_array[220] 1990
+number days_array[221] 10
+number months_array[221] 8
+number years_array[221] 1990
+number days_array[222] 11
+number months_array[222] 8
+number years_array[222] 1990
+number days_array[223] 12
+number months_array[223] 8
+number years_array[223] 1990
+number days_array[224] 13
+number months_array[224] 8
+number years_array[224] 1990
+number days_array[225] 14
+number months_array[225] 8
+number years_array[225] 1990
+number days_array[226] 15
+number months_array[226] 8
+number years_array[226] 1990
+number days_array[227] 16
+number months_array[227] 8
+number years_array[227] 1990
+number days_array[228] 17
+number months_array[228] 8
+number years_array[228] 1990
+number days_array[229] 18
+number months_array[229] 8
+number years_array[229] 1990
+number days_array[230] 19
+number months_array[230] 8
+number years_array[230] 1990
+number days_array[231] 20
+number months_array[231] 8
+number years_array[231] 1990
+number days_array[232] 21
+number months_array[232] 8
+number years_array[232] 1990
+number days_array[233] 22
+number months_array[233] 8
+number years_array[233] 1990
+number days_array[234] 23
+number months_array[234] 8
+number years_array[234] 1990
+number days_array[235] 24
+number months_array[235] 8
+number years_array[235] 1990
+number days_array[236] 25
+number months_array[236] 8
+number years_array[236] 1990
+number days_array[237] 26
+number months_array[237] 8
+number years_array[237] 1990
+number days_array[238] 27
+number months_array[238] 8
+number years_array[238] 1990
+number days_array[239] 28
+number months_array[239] 8
+number years_array[239] 1990
+number days_array[240] 29
+number months_array[240] 8
+number years_array[240] 1990
+number days_array[241] 30
+number months_array[241] 8
+number years_array[241] 1990
+number days_array[242] 31
+number months_array[242] 8
+number years_array[242] 1990
+number days_array[243] 1
+number months_array[243] 9
+number years_array[243] 1990
+number days_array[244] 2
+number months_array[244] 9
+number years_array[244] 1990
+number days_array[245] 3
+number months_array[245] 9
+number years_array[245] 1990
+number days_array[246] 4
+number months_array[246] 9
+number years_array[246] 1990
+number days_array[247] 5
+number months_array[247] 9
+number years_array[247] 1990
+number days_array[248] 6
+number months_array[248] 9
+number years_array[248] 1990
+number days_array[249] 7
+number months_array[249] 9
+number years_array[249] 1990
+number days_array[250] 8
+number months_array[250] 9
+number years_array[250] 1990
+number days_array[251] 9
+number months_array[251] 9
+number years_array[251] 1990
+number days_array[252] 10
+number months_array[252] 9
+number years_array[252] 1990
+number days_array[253] 11
+number months_array[253] 9
+number years_array[253] 1990
+number days_array[254] 12
+number months_array[254] 9
+number years_array[254] 1990
+number days_array[255] 13
+number months_array[255] 9
+number years_array[255] 1990
+number days_array[256] 14
+number months_array[256] 9
+number years_array[256] 1990
+number days_array[257] 15
+number months_array[257] 9
+number years_array[257] 1990
+number days_array[258] 16
+number months_array[258] 9
+number years_array[258] 1990
+number days_array[259] 17
+number months_array[259] 9
+number years_array[259] 1990
+number days_array[260] 18
+number months_array[260] 9
+number years_array[260] 1990
+number days_array[261] 19
+number months_array[261] 9
+number years_array[261] 1990
+number days_array[262] 20
+number months_array[262] 9
+number years_array[262] 1990
+number days_array[263] 21
+number months_array[263] 9
+number years_array[263] 1990
+number days_array[264] 22
+number months_array[264] 9
+number years_array[264] 1990
+number days_array[265] 23
+number months_array[265] 9
+number years_array[265] 1990
+number days_array[266] 24
+number months_array[266] 9
+number years_array[266] 1990
+number days_array[267] 25
+number months_array[267] 9
+number years_array[267] 1990
+number days_array[268] 26
+number months_array[268] 9
+number years_array[268] 1990
+number days_array[269] 27
+number months_array[269] 9
+number years_array[269] 1990
+number days_array[270] 28
+number months_array[270] 9
+number years_array[270] 1990
+number days_array[271] 29
+number months_array[271] 9
+number years_array[271] 1990
+number days_array[272] 30
+number months_array[272] 9
+number years_array[272] 1990
+number days_array[273] 1
+number months_array[273] 10
+number years_array[273] 1990
+number days_array[274] 2
+number months_array[274] 10
+number years_array[274] 1990
+number days_array[275] 3
+number months_array[275] 10
+number years_array[275] 1990
+number days_array[276] 4
+number months_array[276] 10
+number years_array[276] 1990
+number days_array[277] 5
+number months_array[277] 10
+number years_array[277] 1990
+number days_array[278] 6
+number months_array[278] 10
+number years_array[278] 1990
+number days_array[279] 7
+number months_array[279] 10
+number years_array[279] 1990
+number days_array[280] 8
+number months_array[280] 10
+number years_array[280] 1990
+number days_array[281] 9
+number months_array[281] 10
+number years_array[281] 1990
+number days_array[282] 10
+number months_array[282] 10
+number years_array[282] 1990
+number days_array[283] 11
+number months_array[283] 10
+number years_array[283] 1990
+number days_array[284] 12
+number months_array[284] 10
+number years_array[284] 1990
+number days_array[285] 13
+number months_array[285] 10
+number years_array[285] 1990
+number days_array[286] 14
+number months_array[286] 10
+number years_array[286] 1990
+number days_array[287] 15
+number months_array[287] 10
+number years_array[287] 1990
+number days_array[288] 16
+number months_array[288] 10
+number years_array[288] 1990
+number days_array[289] 17
+number months_array[289] 10
+number years_array[289] 1990
+number days_array[290] 18
+number months_array[290] 10
+number years_array[290] 1990
+number days_array[291] 19
+number months_array[291] 10
+number years_array[291] 1990
+number days_array[292] 20
+number months_array[292] 10
+number years_array[292] 1990
+number days_array[293] 21
+number months_array[293] 10
+number years_array[293] 1990
+number days_array[294] 22
+number months_array[294] 10
+number years_array[294] 1990
+number days_array[295] 23
+number months_array[295] 10
+number years_array[295] 1990
+number days_array[296] 24
+number months_array[296] 10
+number years_array[296] 1990
+number days_array[297] 25
+number months_array[297] 10
+number years_array[297] 1990
+number days_array[298] 26
+number months_array[298] 10
+number years_array[298] 1990
+number days_array[299] 27
+number months_array[299] 10
+number years_array[299] 1990
+number days_array[300] 28
+number months_array[300] 10
+number years_array[300] 1990
+number days_array[301] 29
+number months_array[301] 10
+number years_array[301] 1990
+number days_array[302] 30
+number months_array[302] 10
+number years_array[302] 1990
+number days_array[303] 31
+number months_array[303] 10
+number years_array[303] 1990
+number days_array[304] 1
+number months_array[304] 11
+number years_array[304] 1990
+number days_array[305] 2
+number months_array[305] 11
+number years_array[305] 1990
+number days_array[306] 3
+number months_array[306] 11
+number years_array[306] 1990
+number days_array[307] 4
+number months_array[307] 11
+number years_array[307] 1990
+number days_array[308] 5
+number months_array[308] 11
+number years_array[308] 1990
+number days_array[309] 6
+number months_array[309] 11
+number years_array[309] 1990
+number days_array[310] 7
+number months_array[310] 11
+number years_array[310] 1990
+number days_array[311] 8
+number months_array[311] 11
+number years_array[311] 1990
+number days_array[312] 9
+number months_array[312] 11
+number years_array[312] 1990
+number days_array[313] 10
+number months_array[313] 11
+number years_array[313] 1990
+number days_array[314] 11
+number months_array[314] 11
+number years_array[314] 1990
+number days_array[315] 12
+number months_array[315] 11
+number years_array[315] 1990
+number days_array[316] 13
+number months_array[316] 11
+number years_array[316] 1990
+number days_array[317] 14
+number months_array[317] 11
+number years_array[317] 1990
+number days_array[318] 15
+number months_array[318] 11
+number years_array[318] 1990
+number days_array[319] 16
+number months_array[319] 11
+number years_array[319] 1990
+number days_array[320] 17
+number months_array[320] 11
+number years_array[320] 1990
+number days_array[321] 18
+number months_array[321] 11
+number years_array[321] 1990
+number days_array[322] 19
+number months_array[322] 11
+number years_array[322] 1990
+number days_array[323] 20
+number months_array[323] 11
+number years_array[323] 1990
+number days_array[324] 21
+number months_array[324] 11
+number years_array[324] 1990
+number days_array[325] 22
+number months_array[325] 11
+number years_array[325] 1990
+number days_array[326] 23
+number months_array[326] 11
+number years_array[326] 1990
+number days_array[327] 24
+number months_array[327] 11
+number years_array[327] 1990
+number days_array[328] 25
+number months_array[328] 11
+number years_array[328] 1990
+number days_array[329] 26
+number months_array[329] 11
+number years_array[329] 1990
+number days_array[330] 27
+number months_array[330] 11
+number years_array[330] 1990
+number days_array[331] 28
+number months_array[331] 11
+number years_array[331] 1990
+number days_array[332] 29
+number months_array[332] 11
+number years_array[332] 1990
+number days_array[333] 30
+number months_array[333] 11
+number years_array[333] 1990
+number days_array[334] 1
+number months_array[334] 12
+number years_array[334] 1990
+number days_array[335] 2
+number months_array[335] 12
+number years_array[335] 1990
+number days_array[336] 3
+number months_array[336] 12
+number years_array[336] 1990
+number days_array[337] 4
+number months_array[337] 12
+number years_array[337] 1990
+number days_array[338] 5
+number months_array[338] 12
+number years_array[338] 1990
+number days_array[339] 6
+number months_array[339] 12
+number years_array[339] 1990
+number days_array[340] 7
+number months_array[340] 12
+number years_array[340] 1990
+number days_array[341] 8
+number months_array[341] 12
+number years_array[341] 1990
+number days_array[342] 9
+number months_array[342] 12
+number years_array[342] 1990
+number days_array[343] 10
+number months_array[343] 12
+number years_array[343] 1990
+number days_array[344] 11
+number months_array[344] 12
+number years_array[344] 1990
+number days_array[345] 12
+number months_array[345] 12
+number years_array[345] 1990
+number days_array[346] 13
+number months_array[346] 12
+number years_array[346] 1990
+number days_array[347] 14
+number months_array[347] 12
+number years_array[347] 1990
+number days_array[348] 15
+number months_array[348] 12
+number years_array[348] 1990
+number days_array[349] 16
+number months_array[349] 12
+number years_array[349] 1990
+number days_array[350] 17
+number months_array[350] 12
+number years_array[350] 1990
+number days_array[351] 18
+number months_array[351] 12
+number years_array[351] 1990
+number days_array[352] 19
+number months_array[352] 12
+number years_array[352] 1990
+number days_array[353] 20
+number months_array[353] 12
+number years_array[353] 1990
+number days_array[354] 21
+number months_array[354] 12
+number years_array[354] 1990
+number days_array[355] 22
+number months_array[355] 12
+number years_array[355] 1990
+number days_array[356] 23
+number months_array[356] 12
+number years_array[356] 1990
+number days_array[357] 24
+number months_array[357] 12
+number years_array[357] 1990
+number days_array[358] 25
+number months_array[358] 12
+number years_array[358] 1990
+number days_array[359] 26
+number months_array[359] 12
+number years_array[359] 1990
+number days_array[360] 27
+number months_array[360] 12
+number years_array[360] 1990
+number days_array[361] 28
+number months_array[361] 12
+number years_array[361] 1990
+number days_array[362] 29
+number months_array[362] 12
+number years_array[362] 1990
+number days_array[363] 30
+number months_array[363] 12
+number years_array[363] 1990
+number days_array[364] 31
+number months_array[364] 12
+number years_array[364] 1990
+
+dim 800 600
+background 0 0 0
+
+procedure rev {ang ret}
+{
+	expression ret { ang - floor(ang/360)*360 }
+}
+
+
+procedure atan2 { y x ret }
+{
+  number PI 3.14159265359
+  if_then_else { x > 0 }
+  {
+    expression ret { atan(y/x) }
+  } { }
+  if_then_else { x < 0 && y >= 0 }
+  {
+    expression ret { atan(y/x) + PI }
+  } { }
+  if_then_else { x < 0 && y < 0 }
+  {
+    expression ret { atan(y/x) - PI }
+  } { }
+  if_then_else { x == 0 && y > 0 }
+  {
+    expression ret { PI/2 }
+  } { }
+  if_then_else { x == 0 && y < 0 }
+  {
+    expression ret { -PI/2 }
+  } { }
+  if_then_else { x == 0 && y == 0 }
+  {
+    expression ret { 99999999999 }
+  } { }
+}
+
+
+% number Y 1990
+% number M 4
+% number D 19
+number PI 3.141592653589793
+number SIZE_FACTOR 100
+
+number T_MAX 750
+
+point array_indexes 0 0 365 0
+getx curr_index array_indexes
+
+number points_count 365
+
+number Y years_array[curr_index]
+number M months_array[curr_index]
+number D days_array[curr_index]
+
+expression d_calc { 367*Y - (7*(Y + ((M+9)/12)))/4 + (275*M)/9 + D - 730530 }
+expression d { ite( d_calc<0, -floor(abs(d_calc)), floor(abs(d_calc))) }
+
+
+% earth initialization
+number earthx 400
+number earthy 300
+point earth earthx earthy
+number earth_radius 5
+expression earthx1 { earthx + earth_radius }
+expression earthy1 { earthy + earth_radius }
+point earth_on_circle earthx1 earthy1
+color 0 0 255
+fillcircle earth earth_on_circle
+% add some green and white parts for continents
+% part1
+number continentx 401
+number continenty 301
+point continent continentx continenty
+number continent_radius 1.7
+expression continentx1 { continentx + continent_radius }
+expression continenty1 { continenty + continent_radius }
+point continent_on_circle continentx1 continenty1
+color 0 255 0
+fillcircle continent continent_on_circle
+% part2
+number continentx 398
+number continenty 301
+point continent continentx continenty
+number continent_radius 1
+expression continentx1 { continentx + continent_radius }
+expression continenty1 { continenty + continent_radius }
+point continent_on_circle continentx1 continenty1
+color 0 255 0
+fillcircle continent continent_on_circle
+% part3
+number continentx 405
+number continenty 298
+point continent continentx continenty
+number continent_radius 1.3
+expression continentx1 { continentx + continent_radius }
+expression continenty1 { continenty + continent_radius }
+point continent_on_circle continentx1 continenty1
+color 0 255 0
+fillcircle continent continent_on_circle
+% part4
+number continentx 399
+number continenty 298
+point continent continentx continenty
+number continent_radius 1.3
+expression continentx1 { continentx + continent_radius }
+expression continenty1 { continenty + continent_radius }
+point continent_on_circle continentx1 continenty1
+color 0 255 0
+fillcircle continent continent_on_circle
+% part5
+number continentx 400
+number continenty 294
+point continent continentx continenty
+number continent_radius 1
+expression continentx1 { continentx + continent_radius }
+expression continenty1 { continenty + continent_radius }
+point continent_on_circle continentx1 continenty1
+color 255 255 255
+fillcircle continent continent_on_circle
+% part6
+number continentx 400
+number continenty 305
+point continent continentx continenty
+number continent_radius 1.2
+expression continentx1 { continentx + continent_radius }
+expression continenty1 { continenty + continent_radius }
+point continent_on_circle continentx1 continenty1
+color 255 255 255
+fillcircle continent continent_on_circle
+
+
+% sun
+expression sun_w { 282.9404 + 0.0000470935 * d }
+number sun_a 1
+expression sun_e { 0.016709 - 0.000000001151 *d }
+expression sun_M { 356.0470 + 0.9856002585 * d }
+expression oblecl { 23.4393 - 0.0000003563*d }
+% expression L { sun_w + sun_M }  % mean longitude L
+call rev { sun_M sun_M_normalized }
+expression L { sun_w + sun_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression sun_E { sun_M_normalized + (180/PI) * sun_e * sin(sun_M_normalized) * (1 + sun_e * cos(sun_M_normalized)) }
+expression sun_E { sun_M_normalized + 180/PI * sun_e * sin(sun_M_normalized*PI/180) * (1 + sun_e * cos(sun_M_normalized*PI/180)) }
+
+expression sun_X { cos(sun_E*PI/180) -  sun_e }
+expression sun_Y { sin(sun_E*PI/180) * sqrt(1 - sun_e*sun_e) }
+
+expression sun_r { sqrt(sun_X*sun_X + sun_Y*sun_Y) }
+call atan2 { sun_Y sun_X sun_v }
+expression sun_v_deg { 180/PI * sun_v }
+
+expression sun_long { sun_v_deg + sun_w }
+call rev { sun_long sun_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression sun_x_erc { sun_r * cos(sun_long_normalized * PI/180) }
+expression sun_y_erc { sun_r * sin(sun_long_normalized * PI/180) }
+number sun_z 0
+
+% incorporate eccentricity
+expression sun_x_final { sun_x_erc }
+expression sun_y_final { sun_y_erc * cos(oblecl * PI/180) }
+expression sun_z_final { sun_y_erc * sin(oblecl * PI/180) }
+
+expression sun_x_viz { SIZE_FACTOR * sun_x_final + earthx }
+expression sun_y_viz { SIZE_FACTOR * sun_y_erc * cos(oblecl * PI/180) + earthy }
+expression sun_z_viz { SIZE_FACTOR * sun_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 238 210 2
+point sun sun_x_viz sun_y_viz
+number sun_radius 35
+expression sunx1 {sun_x_viz + sun_radius}
+expression suny1 {sun_y_viz + sun_radius}
+point sun_on_circle sunx1 suny1
+fillcircle sun sun_on_circle
+
+
+% mercury
+expression mercury_w { 29.1241 + 0.00001014 * d }
+number mercury_a 0.387098
+expression mercury_e { 0.205635 + 0.000000000559 *d }
+expression mercury_M { 168.6562 + 4.0923344368 * d }
+% expression L { mercury_w + mercury_M }  % mean longitude L
+call rev { mercury_M mercury_M_normalized }
+expression L { mercury_w + mercury_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression mercury_E { mercury_M_normalized + (180/PI) * mercury_e * sin(mercury_M_normalized) * (1 + mercury_e * cos(mercury_M_normalized)) }
+expression mercury_E { mercury_M_normalized + 180/PI * mercury_e * sin(mercury_M_normalized*PI/180) * (1 + mercury_e * cos(mercury_M_normalized*PI/180)) }
+
+expression mercury_X { cos(mercury_E*PI/180) -  mercury_e }
+expression mercury_Y { sin(mercury_E*PI/180) * sqrt(1 - mercury_e*mercury_e) }
+
+expression mercury_r { sqrt(mercury_X*mercury_X + mercury_Y*mercury_Y) }
+call atan2 { mercury_Y mercury_X mercury_v }
+expression mercury_v_deg { 180/PI * mercury_v }
+
+expression mercury_long { mercury_v_deg + mercury_w }
+call rev { mercury_long mercury_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression mercury_x_erc { mercury_r * cos(mercury_long_normalized * PI/180) }
+expression mercury_y_erc { mercury_r * sin(mercury_long_normalized * PI/180) }
+number mercury_z 0
+
+% incorporate eccentricity
+expression mercury_x_final { mercury_x_erc }
+expression mercury_y_final { mercury_y_erc * cos(oblecl * PI/180) }
+expression mercury_z_final { mercury_y_erc * sin(oblecl * PI/180) }
+
+expression mercury_x_viz { 1.5*SIZE_FACTOR * mercury_x_final + earthx  }
+expression mercury_y_viz { 1.5*SIZE_FACTOR * mercury_y_erc * cos(oblecl * PI/180) + earthy }
+expression mercury_z_viz { SIZE_FACTOR * mercury_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 187 152 124
+point mercury mercury_x_viz mercury_y_viz
+number mercury_radius 2
+expression mercuryx1 {mercury_x_viz + mercury_radius}
+expression mercuryy1 {mercury_y_viz + mercury_radius}
+point mercury_on_circle mercuryx1 mercuryy1
+fillcircle mercury mercury_on_circle
+
+
+% venus
+expression venus_w { 54.8910 + 0.00001384 * d }
+number venus_a 0.723330
+expression venus_e { 0.006773 - 0.0000000013 *d }
+expression venus_M { 48.0052 + 1.6021302244 * d }
+% expression L { venus_w + venus_M }  % mean longitude L
+call rev { venus_M venus_M_normalized }
+expression L { venus_w + venus_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression venus_E { venus_M_normalized + (180/PI) * venus_e * sin(venus_M_normalized) * (1 + venus_e * cos(venus_M_normalized)) }
+expression venus_E { venus_M_normalized + 180/PI * venus_e * sin(venus_M_normalized*PI/180) * (1 + venus_e * cos(venus_M_normalized*PI/180)) }
+
+expression venus_X { cos(venus_E*PI/180) -  venus_e }
+expression venus_Y { sin(venus_E*PI/180) * sqrt(1 - venus_e*venus_e) }
+
+expression venus_r { sqrt(venus_X*venus_X + venus_Y*venus_Y) }
+call atan2 { venus_Y venus_X venus_v }
+expression venus_v_deg { 180/PI * venus_v }
+
+expression venus_long { venus_v_deg + venus_w }
+call rev { venus_long venus_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression venus_x_erc { venus_r * cos(venus_long_normalized * PI/180) }
+expression venus_y_erc { venus_r * sin(venus_long_normalized * PI/180) }
+number venus_z 0
+
+% incorporate eccentricity
+expression venus_x_final { venus_x_erc }
+expression venus_y_final { venus_y_erc * cos(oblecl * PI/180) }
+expression venus_z_final { venus_y_erc * sin(oblecl * PI/180) }
+
+expression venus_x_viz { 1.75*SIZE_FACTOR * venus_x_final + earthx }
+expression venus_y_viz { 1.75*SIZE_FACTOR * venus_y_erc * cos(oblecl * PI/180) + earthy }
+expression venus_z_viz { SIZE_FACTOR * venus_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 194 122 37
+point venus venus_x_viz venus_y_viz
+number venus_radius 5
+expression venusx1 {venus_x_viz + venus_radius}
+expression venusy1 {venus_y_viz + venus_radius}
+point venus_on_circle venusx1 venusy1
+fillcircle venus venus_on_circle
+
+
+% mars
+expression mars_w { 286.5016 + 0.0000292961 * d }
+number mars_a 1.523688
+expression mars_e { 0.093405 + 0.000000002516 *d }
+expression mars_M { 18.6021 + 0.5240207766 * d }
+% expression L { mars_w + mars_M }  % mean longitude L
+call rev { mars_M mars_M_normalized }
+expression L { mars_w + mars_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression mars_E { mars_M_normalized + (180/PI) * mars_e * sin(mars_M_normalized) * (1 + mars_e * cos(mars_M_normalized)) }
+expression mars_E { mars_M_normalized + 180/PI * mars_e * sin(mars_M_normalized*PI/180) * (1 + mars_e * cos(mars_M_normalized*PI/180)) }
+
+expression mars_X { cos(mars_E*PI/180) -  mars_e }
+expression mars_Y { sin(mars_E*PI/180) * sqrt(1 - mars_e*mars_e) }
+
+expression mars_r { sqrt(mars_X*mars_X + mars_Y*mars_Y) }
+call atan2 { mars_Y mars_X mars_v }
+expression mars_v_deg { 180/PI * mars_v }
+
+expression mars_long { mars_v_deg + mars_w }
+call rev { mars_long mars_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression mars_x_erc { mars_r * cos(mars_long_normalized * PI/180) }
+expression mars_y_erc { mars_r * sin(mars_long_normalized * PI/180) }
+number mars_z 0
+
+% incorporate eccentricity
+expression mars_x_final { mars_x_erc }
+expression mars_y_final { mars_y_erc * cos(oblecl * PI/180) }
+expression mars_z_final { mars_y_erc * sin(oblecl * PI/180) }
+
+expression mars_x_viz { 2.25*SIZE_FACTOR * mars_x_final + earthx }
+expression mars_y_viz { 2.25*SIZE_FACTOR * mars_y_erc * cos(oblecl * PI/180) + earthy }
+expression mars_z_viz { SIZE_FACTOR * mars_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 187 132 88
+point mars mars_x_viz mars_y_viz
+number mars_radius 3
+expression marsx1 {mars_x_viz + mars_radius}
+expression marsy1 {mars_y_viz + mars_radius}
+point mars_on_circle marsx1 marsy1
+fillcircle mars mars_on_circle
+
+
+% jupiter
+expression jupiter_w { 273.8777 + 0.0000164505 * d }
+number jupiter_a 5.20256
+expression jupiter_e { 0.048498 + 0.000000004469 *d }
+expression jupiter_M { 19.8950 + 0.0830853001 * d }
+% expression L { jupiter_w + jupiter_M }  % mean longitude L
+call rev { jupiter_M jupiter_M_normalized }
+expression L { jupiter_w + jupiter_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression jupiter_E { jupiter_M_normalized + (180/PI) * jupiter_e * sin(jupiter_M_normalized) * (1 + jupiter_e * cos(jupiter_M_normalized)) }
+expression jupiter_E { jupiter_M_normalized + 180/PI * jupiter_e * sin(jupiter_M_normalized*PI/180) * (1 + jupiter_e * cos(jupiter_M_normalized*PI/180)) }
+
+expression jupiter_X { cos(jupiter_E*PI/180) -  jupiter_e }
+expression jupiter_Y { sin(jupiter_E*PI/180) * sqrt(1 - jupiter_e*jupiter_e) }
+
+expression jupiter_r { sqrt(jupiter_X*jupiter_X + jupiter_Y*jupiter_Y) }
+call atan2 { jupiter_Y jupiter_X jupiter_v }
+expression jupiter_v_deg { 180/PI * jupiter_v }
+
+expression jupiter_long { jupiter_v_deg + jupiter_w }
+call rev { jupiter_long jupiter_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression jupiter_x_erc { jupiter_r * cos(jupiter_long_normalized * PI/180) }
+expression jupiter_y_erc { jupiter_r * sin(jupiter_long_normalized * PI/180) }
+number jupiter_z 0
+
+% incorporate eccentricity
+expression jupiter_x_final { jupiter_x_erc }
+expression jupiter_y_final { jupiter_y_erc * cos(oblecl * PI/180) }
+expression jupiter_z_final { jupiter_y_erc * sin(oblecl * PI/180) }
+
+expression jupiter_x_viz { 2.5*SIZE_FACTOR * jupiter_x_final + earthx }
+expression jupiter_y_viz { 2.5*SIZE_FACTOR * jupiter_y_erc * cos(oblecl * PI/180) + earthy }
+expression jupiter_z_viz { SIZE_FACTOR * jupiter_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 160 156 145
+point jupiter jupiter_x_viz jupiter_y_viz
+number jupiter_radius 22
+expression jupiterx1 {jupiter_x_viz + jupiter_radius}
+expression jupitery1 {jupiter_y_viz + jupiter_radius}
+point jupiter_on_circle jupiterx1 jupitery1
+fillcircle jupiter jupiter_on_circle
+
+
+% saturn
+expression saturn_w { 339.3939 + 0.0000297661 * d }
+number saturn_a 9.55475
+expression saturn_e { 0.055546 - 0.000000009499 *d }
+expression saturn_M { 316.9670 + 0.0334442282 * d }
+% expression L { saturn_w + saturn_M }  % mean longitude L
+call rev { saturn_M saturn_M_normalized }
+expression L { saturn_w + saturn_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression saturn_E { saturn_M_normalized + (180/PI) * saturn_e * sin(saturn_M_normalized) * (1 + saturn_e * cos(saturn_M_normalized)) }
+expression saturn_E { saturn_M_normalized + 180/PI * saturn_e * sin(saturn_M_normalized*PI/180) * (1 + saturn_e * cos(saturn_M_normalized*PI/180)) }
+
+expression saturn_X { cos(saturn_E*PI/180) -  saturn_e }
+expression saturn_Y { sin(saturn_E*PI/180) * sqrt(1 - saturn_e*saturn_e) }
+
+expression saturn_r { sqrt(saturn_X*saturn_X + saturn_Y*saturn_Y) }
+call atan2 { saturn_Y saturn_X saturn_v }
+expression saturn_v_deg { 180/PI * saturn_v }
+
+expression saturn_long { saturn_v_deg + saturn_w }
+call rev { saturn_long saturn_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression saturn_x_erc { saturn_r * cos(saturn_long_normalized * PI/180) }
+expression saturn_y_erc { saturn_r * sin(saturn_long_normalized * PI/180) }
+number saturn_z 0
+
+% incorporate eccentricity
+expression saturn_x_final { saturn_x_erc }
+expression saturn_y_final { saturn_y_erc * cos(oblecl * PI/180) }
+expression saturn_z_final { saturn_y_erc * sin(oblecl * PI/180) }
+
+expression saturn_x_viz { 2.75*SIZE_FACTOR * saturn_x_final + earthx }
+expression saturn_y_viz { 2.75*SIZE_FACTOR * saturn_y_erc * cos(oblecl * PI/180) + earthy }
+expression saturn_z_viz { SIZE_FACTOR * saturn_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 206 205 163
+point saturn saturn_x_viz saturn_y_viz
+number saturn_radius 17
+expression saturnx1 {saturn_x_viz + saturn_radius}
+expression saturny1 {saturn_y_viz + saturn_radius}
+point saturn_on_circle saturnx1 saturny1
+fillcircle saturn saturn_on_circle
+
+
+% uranus
+expression uranus_w { 96.6612 + 0.000030565 * d }
+expression uranus_a { 19.18171 - 0.0000000155 * d }
+expression uranus_e { 0.047318 + 0.00000000745 *d }
+expression uranus_M { 142.5905 + 0.011725806 * d }
+% expression L { uranus_w + uranus_M }  % mean longitude L
+call rev { uranus_M uranus_M_normalized }
+expression L { uranus_w + uranus_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression uranus_E { uranus_M_normalized + (180/PI) * uranus_e * sin(uranus_M_normalized) * (1 + uranus_e * cos(uranus_M_normalized)) }
+expression uranus_E { uranus_M_normalized + 180/PI * uranus_e * sin(uranus_M_normalized*PI/180) * (1 + uranus_e * cos(uranus_M_normalized*PI/180)) }
+
+expression uranus_X { cos(uranus_E*PI/180) -  uranus_e }
+expression uranus_Y { sin(uranus_E*PI/180) * sqrt(1 - uranus_e*uranus_e) }
+
+expression uranus_r { sqrt(uranus_X*uranus_X + uranus_Y*uranus_Y) }
+call atan2 { uranus_Y uranus_X uranus_v }
+expression uranus_v_deg { 180/PI * uranus_v }
+
+expression uranus_long { uranus_v_deg + uranus_w }
+call rev { uranus_long uranus_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression uranus_x_erc { uranus_r * cos(uranus_long_normalized * PI/180) }
+expression uranus_y_erc { uranus_r * sin(uranus_long_normalized * PI/180) }
+number uranus_z 0
+
+% incorporate eccentricity
+expression uranus_x_final { uranus_x_erc }
+expression uranus_y_final { uranus_y_erc * cos(oblecl * PI/180) }
+expression uranus_z_final { uranus_y_erc * sin(oblecl * PI/180) }
+
+expression uranus_x_viz { 3*SIZE_FACTOR * uranus_x_final + earthx }
+expression uranus_y_viz { 3*SIZE_FACTOR * uranus_y_erc * cos(oblecl * PI/180) + earthy }
+expression uranus_z_viz { SIZE_FACTOR * uranus_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 8 160 178
+point uranus uranus_x_viz uranus_y_viz
+number uranus_radius 12
+expression uranusx1 {uranus_x_viz + uranus_radius}
+expression uranusy1 {uranus_y_viz + uranus_radius}
+point uranus_on_circle uranusx1 uranusy1
+fillcircle uranus uranus_on_circle
+
+
+% neptune
+expression neptune_w { 272.8461 - 0.000006027 * d }
+expression neptune_a { 30.05826 + 0.00000003313 * d }
+expression neptune_e { 0.008606 + 0.00000000215 *d }
+expression neptune_M { 260.2471 + 0.005995147 * d }
+% expression L { neptune_w + neptune_M }  % mean longitude L
+call rev { neptune_M neptune_M_normalized }
+expression L { neptune_w + neptune_M_normalized }  % mean longitude L
+call rev { L L_normalized }
+
+% expression neptune_E { neptune_M_normalized + (180/PI) * neptune_e * sin(neptune_M_normalized) * (1 + neptune_e * cos(neptune_M_normalized)) }
+expression neptune_E { neptune_M_normalized + 180/PI * neptune_e * sin(neptune_M_normalized*PI/180) * (1 + neptune_e * cos(neptune_M_normalized*PI/180)) }
+
+expression neptune_X { cos(neptune_E*PI/180) -  neptune_e }
+expression neptune_Y { sin(neptune_E*PI/180) * sqrt(1 - neptune_e*neptune_e) }
+
+expression neptune_r { sqrt(neptune_X*neptune_X + neptune_Y*neptune_Y) }
+call atan2 { neptune_Y neptune_X neptune_v }
+expression neptune_v_deg { 180/PI * neptune_v }
+
+expression neptune_long { neptune_v_deg + neptune_w }
+call rev { neptune_long neptune_long_normalized}
+
+% erc - ecliptic rectangular coordinates
+expression neptune_x_erc { neptune_r * cos(neptune_long_normalized * PI/180) }
+expression neptune_y_erc { neptune_r * sin(neptune_long_normalized * PI/180) }
+number neptune_z 0
+
+% incorporate eccentricity
+expression neptune_x_final { neptune_x_erc }
+expression neptune_y_final { neptune_y_erc * cos(oblecl * PI/180) }
+expression neptune_z_final { neptune_y_erc * sin(oblecl * PI/180) }
+
+expression neptune_x_viz { 3.4*SIZE_FACTOR * neptune_x_final + earthx }
+expression neptune_y_viz { 3.4*SIZE_FACTOR * neptune_y_erc * cos(oblecl * PI/180) + earthy }
+expression neptune_z_viz { SIZE_FACTOR * neptune_y_erc * sin(oblecl * PI/180) + 0}
+
+
+color 53 77 202
+point neptune neptune_x_viz neptune_y_viz
+number neptune_radius 12
+expression neptunex1 {neptune_x_viz + neptune_radius}
+expression neptuney1 {neptune_y_viz + neptune_radius}
+point neptune_on_circle neptunex1 neptuney1
+fillcircle neptune neptune_on_circle
+
+
+point sun_text_pos 740 170
+fontsize 60
+color 238 210 2
+printat sun_text_pos { sun }
+
+point mercury_text_pos 740 150
+fontsize 60
+color 187 152 124
+printat mercury_text_pos { mercury }
+
+point venus_text_pos 740 130
+fontsize 60
+color 194 122 37
+printat venus_text_pos { venus }
+
+point mars_text_pos 740 110
+fontsize 60
+color 187 132 88
+printat mars_text_pos { mars }
+
+point jupiter_text_pos 740 90
+fontsize 60
+color 160 156 145
+printat jupiter_text_pos { jupiter }
+
+point saturn_text_pos 740 70
+fontsize 60
+color 206 205 163
+printat saturn_text_pos { saturn }
+
+point uranus_text_pos 740 50
+fontsize 60
+color 8 160 178
+printat uranus_text_pos { uranus }
+
+point neptune_text_pos 740 30
+fontsize 60
+color 53 77 202
+printat neptune_text_pos { neptune }
+
+point caption_text_pos 400 550
+fontsize 100
+color 255 255 255
+printat caption_text_pos { Simplified Geocentric Model of the Solar System }
+
+point caption_text_pos 175 25
+fontsize 50
+color 255 255 255
+printat caption_text_pos { starts with 1.1.1990. & ends with 31.12.1990. }
+
+
+
+animation_frames T_MAX 50
+linethickness 1
+trace sun 238 210 2
+trace mercury 187 152 124
+trace venus 194 122 37
+trace mars 187 132 88
+trace jupiter 160 156 145
+trace saturn 206 205 163
+trace uranus 8 160 178
+trace neptune 53 77 202
+
+
