@@ -1099,7 +1099,7 @@ background 0 0 0
 
 procedure rev {ang ret}
 {
-	expression ret { ang - floor(ang/360)*360 }
+  expression ret { ang - floor(ang/360)*360 }
 }
 
 
@@ -1143,6 +1143,7 @@ number T_MAX 750
 
 point array_indexes 0 0 365 0
 getx curr_index array_indexes
+expression curr_index { ceil(curr_index)}  % there was a bug without this command
 
 number points_count 365
 
